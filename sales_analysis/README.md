@@ -1,9 +1,8 @@
 Business Question:
+How has sales performance changed over time, and which product categories and customer regions generate the most revenue?
 
-How is the company performing over time, and which products and regions drive revenue?
-
-Key Metrics:
+Metrics we care about
 	•	Revenue
-	•	Order count
+	•	Order volume
 	•	Average Order Value (AOV)
-	•	Growth rate
+	•	Growth over time
